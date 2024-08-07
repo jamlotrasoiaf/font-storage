@@ -1,2 +1,2 @@
-# Montserrat-storage
-for storing montserrat font files
+# font-storage
+for storing font files
